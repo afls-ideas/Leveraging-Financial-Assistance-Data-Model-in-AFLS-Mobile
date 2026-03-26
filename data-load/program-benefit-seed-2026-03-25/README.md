@@ -20,5 +20,4 @@ Load order (if reloading in the same org with these IDs):
 
 Notes:
 
-- These files include Salesforce record IDs and lookup IDs from org `260-pm`.
 - For loading into a different org, replace ID-based lookups with external ID mappings.
